@@ -1,0 +1,26 @@
+<resources>
+    <!-- Nombre de la aplicación -->
+    <string name="app_name">RegistroContactos</string>
+    <string name="titulo_formulario">Registro de Contacto</string>
+    <string name="etiqueta_nombre">Nombre:</string>
+    <string name="etiqueta_correo">Correo electrónico:</string>
+    <string name="etiqueta_telefono">Teléfono:</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="hint_telefono">Teléfono (8 dígitos)</string>
+    <string name="etiqueta_tipo_contacto">Tipo de contacto:</string>
+    <string name="opcion_personal">Personal</string>
+    <string name="opcion_trabajo">Trabajo</string>
+    <string name="opcion_familia">Familia</string>
+    <string name="btn_continuar">Continuar</string>
+
+    <!-- Pantalla de confirmación -->
+    <string name="titulo_confirmacion">Confirmar Datos</string>
+    <string name="btn_volver">Volver</string>
+    <string name="btn_confirmar">Confirmar</string>
+
+    <!-- Pantalla de lista de contactos -->
+    <string name="titulo_lista_contactos">Lista de Contactos Registrados</string>
+    <string name="mensaje_lista_vacia">No hay contactos registrados todavía.</string>
+    <string name="btn_nuevo_contacto">Registrar Nuevo Contacto</string>
+</resources>
